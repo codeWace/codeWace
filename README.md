@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codeWace
 - 👀 I’m interested in coding and gaming stuff
-- 🌱 I’m currently learning many things including python
-- 💞️ I’m looking to collaborate on (not capable/available for this post rn)
+- 🌱 I’m currently learning many things including python, and javascript.
+- 🎮 I code games to understand the world.
+- 📹 YouTube: @codeW-ace
 - ⚡ Fun fact: Ketchup was once sold as medicine
 
 <!---
