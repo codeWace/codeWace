@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeWace
+- 👋 Hi, I’m @codeWace (Wajiha Tasaduq)
 - 👀 I’m interested in coding and gaming stuff
 - 🌱 I’m currently learning many things including python, and javascript.
 - 🎮 I code games to understand the world.
