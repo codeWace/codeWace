@@ -1,6 +1,6 @@
 <div align="center">
 
-### ⌨️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+I'm+codeWace!;I+code+games+to+understand+the+world.;Welcome+to+my+GitHub+🦖" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=#FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+codeWace!;I+code+games+to+understand+the+world.;Welcome+to+my+GitHub+🦖" />
 
 <br>
 
