@@ -12,11 +12,11 @@
 ---
 
 ## 👋 About Me
-- Hi, I’m **@codeWace** (Wajiha Tasaduq)  
-- 👀 I’m interested in **coding** and **gaming stuff**  
-- 🌱 I’m currently learning **Python**, **JavaScript**, and a lot more  
-- 🎮 I code games to understand how the world works  
-- ⚡ Fun fact: **Ketchup was once sold as medicine**
+- Hi, I’m **@codeWace** (Wajiha Tasaduq).  
+- 👀 I’m interested in **coding** and **gaming stuff**.
+- 🌱 I’m currently learning **Python**, **JavaScript**, and a lot more.
+- 🎮 I code games to understand how the world works (you could say I am quite curious about everything).
+- ⚡ Fun fact: **Ketchup was once sold as medicine**.
 
 ---
 
