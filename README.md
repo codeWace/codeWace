@@ -17,6 +17,7 @@
 - 🌱 Currently learning **Python**, **JavaScript**, **game development** (very much in “newbie loading…” mode), and **cybersecurity**. It’s a chaotic skill tree, but it’s working. 
 - 🎮 I try to code games to understand how the world works (you could say **curiosity** is my default mode - I love exploring anything that makes me wonder.)
 - 🌀 Also a huge Naruto fan, still waiting for my chakra to activate.
+- ⚔️ Levi Ackerman-level efficiency enthusiast - eliminating bugs like titans.
 - ⚡ Fun fact: **Ketchup was once sold as medicine**.
 
 ---
