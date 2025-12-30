@@ -14,6 +14,8 @@
 ## 👋 About Me
 - Hi, I’m **@codeWace** (Wajiha Tasaduq).  
 - 👀 I’m interested in **coding** and **gaming stuff**.
+- 🛠️ Turning Everyday Ideas into Apps. I enjoy taking simple, real-life needs and turning them into applications. 
+  If something feels repetitive, inconvenient, or “there should be an app for this,” I try to build it.
 - 🌱 Currently learning **Python**, **JavaScript**, **game development** (very much in “newbie loading…” mode), and **cybersecurity**. It’s a chaotic skill tree, but it’s working. 
 - 🎮 I try to code games to understand how the world works (you could say **curiosity** is my default mode - I love exploring anything that makes me wonder.)
 - 🌀 Also a huge Naruto fan, still waiting for my chakra to activate.
